@@ -1,5 +1,5 @@
 
-![gzh_sancijun](https://sancijun-1255318116.cos.ap-guangzhou.myqcloud.com/imgswx_sancijun-20220505105239017.png)
+![来都来了 交个朋友](https://cdn.jsdelivr.net/gh/sancijun/images/pics/qrcode_banner.webp)
 
 ![](https://github-readme-stats.vercel.app/api?username=sancijun)
 
