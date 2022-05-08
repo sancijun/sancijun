@@ -1,10 +1,10 @@
 
 ![来都来了 交个朋友](https://cdn.jsdelivr.net/gh/sancijun/images/pics/qrcode_banner.webp)
 
-![](https://github-readme-stats.vercel.app/api?username=sancijun)
-
 <!--
 **sancijun/sancijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://github-readme-stats.vercel.app/api?username=sancijun)
 
 Here are some ideas to get you started:
 
