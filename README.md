@@ -1,5 +1,4 @@
 
-![来都来了 交个朋友](https://cdn.jsdelivr.net/gh/sancijun/images/pics/qrcode_banner.webp)
 
 <!--
 **sancijun/sancijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
